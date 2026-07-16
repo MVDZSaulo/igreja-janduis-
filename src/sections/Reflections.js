@@ -11,14 +11,6 @@ export const Reflections = () => {
     {
       title: 'Filipenses 4:13',
       excerpt: 'Em Cristo recebemos força para enfrentar desafios e seguir firmes na caminhada. (Filipenses 4:13)'
-    },
-    {
-      title: 'Romanos 8:28',
-      excerpt: 'Todas as coisas cooperam para o bem daqueles que amam a Deus — até as provas são usadas para o nosso crescimento. (Romanos 8:28)'
-    },
-    {
-      title: 'Isaías 41:10',
-      excerpt: 'Não temas: Deus está contigo, sustenta, fortalece e ajuda em todo momento. (Isaías 41:10)'
     }
   ];
 
