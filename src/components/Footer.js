@@ -50,7 +50,7 @@ export const Footer = () => {
           <div class="footer-info">
             <div class="info-row">
               <i data-lucide="mail" aria-hidden="true"></i>
-              <a href="mailto:contato@igrejajanduis.com.br">contato@igrejajanduis.com.br</a>
+              <a href="mailto:assembleiadedeusjanduisrn@gmail.com">assembleiadedeusjanduisrn@gmail.com</a>
             </div>
             <div class="info-row">
               <i data-lucide="phone" aria-hidden="true"></i>

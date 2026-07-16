@@ -18,7 +18,7 @@ export const Contato = () => {
               </div>
               <div style="display: flex; flex-direction: column; gap: 8px;">
                 <label>E-mail</label>
-                <input type="email" id="emailInput" placeholder="seu@email.com" style="padding: 12px; border: 1px solid #ddd; border-radius: var(--radius-md);" required>
+                <input type="email" id="emailInput" placeholder="assembleiadedeusjanduisrn@gmail.com" style="padding: 12px; border: 1px solid #ddd; border-radius: var(--radius-md);" required>
               </div>
               <div style="display: flex; flex-direction: column; gap: 8px;">
                 <label>Telefone</label>
@@ -53,7 +53,7 @@ export const Contato = () => {
                 <div class="shortcut-icon" style="width: 50px; height: 50px;"><i data-lucide="mail"></i></div>
                 <div>
                   <h4 style="color: var(--primary);">Email</h4>
-                  <p>secretaria@igrejajanduis.com.br</p>
+                  <p>assembleiadedeusjanduisrn@gmail.com</p>
                 </div>
               </div>
             </div>
