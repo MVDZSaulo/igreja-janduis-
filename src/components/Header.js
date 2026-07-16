@@ -3,7 +3,7 @@ export const Header = () => {
     <nav class="header-nav">
       <div class="container nav-container">
         <a href="#home" class="logo">
-          <img src="/src/assets/logo.png" alt="Igreja Janduis Logo" class="logo-img">
+          <img src="./src/assets/logo.png" alt="Igreja Janduis Logo" class="logo-img">
         </a>
 
         <ul class="nav-links">

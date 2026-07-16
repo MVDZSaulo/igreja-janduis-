@@ -5,7 +5,7 @@ export const Footer = () => {
     <footer class="main-footer py-5">
       <div class="container footer-grid">
         <div class="footer-col branding">
-          <img src="/src/assets/logo.png" alt="Logo Igreja Janduis" class="footer-logo">
+          <img src="./src/assets/logo.png" alt="Logo Igreja Janduis" class="footer-logo">
           <p class="footer-text">Igreja Evangélica Assembleia de Deus<br>Um lugar de adoração, comunhão e transformação.</p>
           <div class="social-icons" aria-label="Redes sociais">
             <a href="https://www.instagram.com/adjanduis.rn" title="Instagram da Igreja" rel="noopener noreferrer" target="_blank">

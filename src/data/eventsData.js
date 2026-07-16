@@ -1,20 +1,20 @@
 export const eventsData = [
 	{
-		img: '/src/assets/Foto da igreja de janduis.jpeg',
+		img: './src/assets/Foto da igreja de janduis.jpeg',
 		title: 'Reenaguração da igreja Central',
 		date: '15 de Junho | 18:00',
 		location: 'Igreja Central',
 		btnText: 'Saiba Mais'
 	},
 	{
-		img: '/src/assets/slider2.png',
+		img: './src/assets/slider2.png',
 		title: 'Congresso de Jovens',
 		date: '4-5-6 de Setembro',
 		location: 'Módulo Esportivo',
 		btnText: 'Inscrições Indisponiveis'
 	},
 	{
-		img: '/src/assets/Culto de doltrina.jpeg',
+		img: './src/assets/Culto de doltrina.jpeg',
 		title: 'Culto de Doutrina',
 		date: 'Toda Sexta-Feira | 19:00',
 		location: 'Igreja Central',
